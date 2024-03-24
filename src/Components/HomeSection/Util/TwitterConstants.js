@@ -1,0 +1,5 @@
+export const CHAR_LIMIT_FOR_PREMIUM = 500;
+export const CHAR_LIMIT_FOR_NORMAL= 250;
+
+export const VIDEO_LENGTH_LIMIT_FOR_PREMIUM = 450;
+export const VIDEO_LENGTH_LIMIT_FOR_NORMAL = 20;
